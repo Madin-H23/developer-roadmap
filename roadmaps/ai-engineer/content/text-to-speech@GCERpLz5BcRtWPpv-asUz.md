@@ -5,4 +5,4 @@ In the context of multimodal AI, text-to-speech (TTS) technology converts writte
 Visit the following resources to learn more:
 
 - [@article@What is Text-to-Speech?](https://aws.amazon.com/polly/what-is-text-to-speech/)
-- [@article@From Text to Speech: The Evolution of Synthetic Voices](https://ignitetech.ai/about/blogs/text-speech-evolution-synthetic-voices)
+- [@article@From Text to Speech: The Evolution of Synthetic Voices](https://web.archive.org/web/20240712201946/https://ignitetech.ai/about/blogs/text-speech-evolution-synthetic-voices)

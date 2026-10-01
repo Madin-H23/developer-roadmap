@@ -5,4 +5,4 @@
 Visit the following resources to learn more:
 
 - [@official@BTreeMap](https://doc.rust-lang.org/std/collections/struct.BTreeMap.html)
-- [@article@BTreeMap](https://cglab.ca/~abeinges/blah/rust-btree-case/)
+- [@article@BTreeMap](https://web.archive.org/web/20240128032800/https://cglab.ca/~abeinges/blah/rust-btree-case/)
